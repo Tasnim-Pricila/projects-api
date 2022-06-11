@@ -1,0 +1,51 @@
+[
+    
+    {
+      "id": 1,
+      "name":"TechFly",
+      "description":"Manufacturing website of computer and laptop parts. Featured with user and admin dashboard and alsp payment system for users.",
+      "technology":" HTML, CSS, Tailwind, React, Firebase, Stripe, Node, MongoDB, Express",
+      "img":"https://i.ibb.co/sWtgc1h/techfly.png",
+      "ss1": "https://i.ibb.co/c1c14Qg/Screenshot-134.png",
+      "ss2": "https://i.ibb.co/VDfrypq/Screenshot-122.png",
+      "live": "https://techfly-eef56.web.app/",
+      "client": "https://github.com/Tasnim-Pricila/Techfly-Client-Side",
+      "server": "https://github.com/Tasnim-Pricila/Techfly-Server-Side",
+      "features1": "Single page application website with admin and user dashboard.",
+      "features2": "Users can buy products, make payment and add a review. Admin can manage all products and orders by adding or deleting.",
+      "features3": "Both user and admin can see their profile and also update their profile."
+
+    },
+    {
+      "id": 2,
+      "name":"Vintage Exotic Cars",
+      "description":"Vintage Exotic Cars is a warehouse management website. Users can maintain stock and also add or delete any product.",
+      "technology":" HTML, CSS, Tailwind, React, Firebase, Node, MongoDB, Express",
+      "img":"https://i.ibb.co/ckkW9SS/cars.png",
+      "ss1": "https://i.ibb.co/hycPy25/Screenshot-124.png",
+      "ss2": "https://i.ibb.co/Gn60c5d/Screenshot-130.png",
+      "ss3": "https://i.ibb.co/zxJ4mZb/Screenshot-123.png",
+      "live": "https://warehouse-management-54c43.web.app/",
+      "client": "https://github.com/Tasnim-Pricila/warehouse-management-client-side",
+      "server": "https://github.com/Tasnim-Pricila/warehouse-management-server-side",
+      "features1": "A car website where users can add more products.",
+      "features2": "Users can update the stock of a product through an input field.",
+      "features3": "Delete button for users to delete any items."
+    },
+    {
+      "id": 3,
+      "name":"Wedding Photographer",
+      "description":"Website of a weeding photographer. Featured with her services and amazing photo gallery.",
+      "technology":" HTML, CSS, Tailwind, React, Firebase.",
+      "img":"https://i.ibb.co/2M66FZX/wedding.png",
+      "ss1": "https://i.ibb.co/8d4Cj32/Screenshot-127.png",
+      "ss2": "https://i.ibb.co/HDZXXFs/Screenshot-132.png",
+      "live": "https://wedding-photographer-d8763.web.app/",
+      "client": "https://github.com/Tasnim-Pricila/wedding-photographer",
+      "features1": "Used React router to route page without reloading.",
+      "features2": "Firebase authenticated signup and login system for users",
+      "features3": "Animation added when hovering in the photo gallery."
+    }
+]
+
+
